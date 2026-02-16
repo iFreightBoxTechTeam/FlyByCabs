@@ -1154,12 +1154,12 @@ Uri: https://stackbros.in/bookinga/landing/assets/images/logo-icon.svg
 File Name: C:\Users\SHRADDHA\Downloads\flybycabs\stackbros.in\bookinga\landing\assets\images\logo-icon.svg
 Content Type: image/svg+xml
 
-Uri: https://stackbros.in/bookinga/landing/assets/images/logo-light.svg
-File Name: C:\Users\SHRADDHA\Downloads\flybycabs\stackbros.in\bookinga\landing\assets\images\logo-light.svg
+Uri: https://stackbros.in/bookinga/landing/assets/images/logo-light.png
+File Name: C:\Users\SHRADDHA\Downloads\flybycabs\stackbros.in\bookinga\landing\assets\images\logo-light.png
 Content Type: image/svg+xml
 
-Uri: https://stackbros.in/bookinga/landing/assets/images/logo.svg
-File Name: C:\Users\SHRADDHA\Downloads\flybycabs\stackbros.in\bookinga\landing\assets\images\logo.svg
+Uri: https://stackbros.in/bookinga/landing/assets/images/logo.png
+File Name: C:\Users\SHRADDHA\Downloads\flybycabs\stackbros.in\bookinga\landing\assets\images\logo.png
 Content Type: image/svg+xml
 
 Uri: https://stackbros.in/bookinga/landing/assets/images/offer/01.jpg
@@ -1710,12 +1710,12 @@ Uri: https://stackbros.in/bookinga/landing/docs/assets/images/logo-hotel.svg
 File Name: C:\Users\SHRADDHA\Downloads\flybycabs\stackbros.in\bookinga\landing\docs\assets\images\logo-hotel.svg
 Content Type: image/svg+xml
 
-Uri: https://stackbros.in/bookinga/landing/docs/assets/images/logo-light.svg
-File Name: C:\Users\SHRADDHA\Downloads\flybycabs\stackbros.in\bookinga\landing\docs\assets\images\logo-light.svg
+Uri: https://stackbros.in/bookinga/landing/docs/assets/images/logo-light.png
+File Name: C:\Users\SHRADDHA\Downloads\flybycabs\stackbros.in\bookinga\landing\docs\assets\images\logo-light.png
 Content Type: image/svg+xml
 
-Uri: https://stackbros.in/bookinga/landing/docs/assets/images/logo.svg
-File Name: C:\Users\SHRADDHA\Downloads\flybycabs\stackbros.in\bookinga\landing\docs\assets\images\logo.svg
+Uri: https://stackbros.in/bookinga/landing/docs/assets/images/logo.png
+File Name: C:\Users\SHRADDHA\Downloads\flybycabs\stackbros.in\bookinga\landing\docs\assets\images\logo.png
 Content Type: image/svg+xml
 
 Uri: https://stackbros.in/bookinga/landing/docs/assets/js/bootstrap.bundle.min.js

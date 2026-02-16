@@ -18496,7 +18496,7 @@ a.badge:hover {
     z-index: 1100 !important;
   }
   .navbar-expand-xl .navbar-brand .navbar-brand-item {
-    height: 40px;
+    height: 70px;
     display: block;
     width: auto;
   }
@@ -22000,7 +22000,7 @@ html[dir=rtl] .choices__input {
 
 .form-fs-lg .flatpickr {
   font-weight: 500;
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 
 .form-fs-md .flatpickr {
