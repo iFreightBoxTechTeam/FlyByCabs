@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<title>404 - Page Not Found | FlyWay Cab</title>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Bootstrap -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+<style>
+
+body{
+    background:#0c0c0c;
+    color:white;
+    font-family: 'Poppins', sans-serif;
+    overflow:hidden;
+}
+
+/* CENTER LAYOUT */
+
+.wrapper{
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+}
+
+/* BIG 404 TEXT */
+
+.error-code{
+    font-size:120px;
+    font-weight:900;
+    letter-spacing:5px;
+    background: linear-gradient(90deg,#6f00ff,#a855f7);
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;
+}
+
+/* CAR ANIMATION */
+
+.car{
+    width:200px;
+    animation:drive 6s linear infinite;
+    margin:30px auto;
+}
+
+@keyframes drive{
+    0%{ transform:translateX(-120px);}
+    50%{ transform:translateX(120px);}
+    100%{ transform:translateX(-120px);}
+}
+
+/* BUTTON */
+
+.btn-home{
+    background:linear-gradient(90deg,#6f00ff,#a855f7);
+    border:none;
+    padding:12px 30px;
+    font-weight:600;
+    border-radius:50px;
+    margin-top:20px;
+}
+
+.btn-home:hover{
+    transform:scale(1.05);
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="wrapper">
+
+<div>
+
+<h1 class="error-code">404</h1>
+
+<h3 class="mb-3">Oops... This road doesn't exist 🚧</h3>
+
+<p class="text-secondary">
+Looks like the cab took a wrong turn.<br>
+The page you are looking for cannot be found.
+</p>
+
+<!-- Animated Car -->
+<img src="assets/images/logo-light.png" class="car">
+
+<br>
+
+<a href="index.html" class="btn btn-home">
+<i class="fa-solid fa-car me-2"></i> Back to Home
+</a>
+
+</div>
+
+</div>
+
+</body>
+</html>
